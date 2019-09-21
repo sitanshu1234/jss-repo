@@ -1,1 +1,7 @@
-ur papa
+#include<stdio.h>
+main()
+{
+clrscr()
+printf("hello wiorld\n');
+getch()
+}
