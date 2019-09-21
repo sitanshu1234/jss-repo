@@ -2,6 +2,6 @@
 main()
 {
 clrscr()
-printf("hello wiorld\n');
+printf("hello wiorld\n);
 getch()
 }
